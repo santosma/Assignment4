@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="check_amount">Check Amount</string>
+    <string name="party_size">party size</string>
+    <string name="calculate">Calculate</string>
+    <string name="tips">Tips:</string>
+    <string name="fifteenPercent">15%</string>
+    <string name="twentyPercent">20%</string>
+    <string name="twentyFivePercent">25%</string>
+    <string name="total">Total:</string>
+</resources>
